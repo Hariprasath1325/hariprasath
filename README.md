@@ -45,7 +45,7 @@ This project focuses on clean UI, responsive design, and component-based archite
 ## 🛠️ Getting Started
 
 1️⃣ Clone the repository
-git clone https://github.com/Hariprasath1325/candy-clone.git
+git clone https://github.com/Hariprasath1325/hariprasath.git
 
 2️⃣ Navigate to the project folder
 cd candyai-clone
